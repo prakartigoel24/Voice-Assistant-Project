@@ -56,4 +56,4 @@ PACKAGES :
 4.NOW YOURE ALL SET. Woohoo !!!
 
 **IMPORTANT**
--Write the names and Email IDs of people in the dict.txt file to use their name to send Email.
+-Write the names and Email IDs of people separated via a "-" in the dict.txt file to use their names to send Email to their respective Email IDs.
