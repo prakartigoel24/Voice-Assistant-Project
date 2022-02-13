@@ -1,7 +1,7 @@
 # MERLIN - Voice Assistant
 
 
-Created a voice assistant for everyday tasks with just voice commands.
+Created a voice assistant for everyday tasks which can be done by using voice commands only .
 
 
  ## * TASKS * ##
